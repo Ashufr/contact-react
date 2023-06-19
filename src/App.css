@@ -1,0 +1,21 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  width: 75%;
+  margin: 0 auto ;
+  /* height: 60vh; */
+}
+.header h1{
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.header p{
+  width: 60rem;
+}
